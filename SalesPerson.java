@@ -9,7 +9,10 @@ public class SalesPerson extends Employee{
 	 * Private variable declarations 
 	 */
 	private static int numberOfSPs = 0;
-	private String[] leadArray;
+	/**
+	 * @author Iman Anooshehpour changed the typr from String to Lead instance. 
+	 */
+	private Lead[] leadArray;
 	
 	/**
 	 * Default Constructor is created
