@@ -1,15 +1,15 @@
 # Asset-Lab-Project03
 
 ## Artifacts of Inception
-..* Vision and business case– High level goals and constraints
-⋅⋅* Use-Case model– Functional requirements (10% in details)
-⋅⋅* Supplementary specification– Key and mostly non-functional requirements with impact on the architecture
-⋅⋅* Glossary– Domain terminology and data dictionary
-⋅⋅* Risk List and Management Plan– Describe risks (business, technical, resource, schedule)
-⋅⋅* Prototypes and proof of concepts– Clarify vision, validate technical ideas
-⋅⋅* Iteration Plan– What to do in the first elaboration phase
-⋅⋅* Phase Plan and software development plan– Tools, people, education, and other resources
-⋅⋅* Development Case– Customization of UP steps and artifacts for the project 
++ Vision and business case– High level goals and constraints
++ Use-Case model– Functional requirements (10% in details)
++ Supplementary specification– Key and mostly non-functional requirements with impact on the architecture
++ Glossary– Domain terminology and data dictionary
++ Risk List and Management Plan– Describe risks (business, technical, resource, schedule)
++ Prototypes and proof of concepts– Clarify vision, validate technical ideas
++ Iteration Plan– What to do in the first elaboration phase
++ Phase Plan and software development plan– Tools, people, education, and other resources
++ Development Case– Customization of UP steps and artifacts for the project 
 
 ## FURPS+ Model
 ### In UP, requirements are categorized according to the FURPS+ model:
