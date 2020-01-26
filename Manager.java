@@ -1,10 +1,9 @@
 /**
  * 
- * @author Aashka Prajapati
- * This class extend Employee class
+ * @author Aashka Prajapati This class extend Employee class
  *
  */
-public class Manager extends Employee{
+public class Manager extends Employee {
 
 	/**
 	 * Default Constructor
@@ -15,9 +14,9 @@ public class Manager extends Employee{
 		 * 
 		 */
 		this.employeeNumber = 0;
-		this.accessLevel = 2;		
-		
+		this.accessLevel = 2;
+		this.position = "MANAGER";
+
 	}
-	
-	
+
 }
