@@ -8,7 +8,8 @@ As we measured the high risk to be Leads' security, we prototyped the high risk 
 To properly testing the prototype an instance of the Manager class and 2 instances of the SalesPerson class is created.
 Right after the initialization of the SalesPerson instances, 2 Lead instances get initialized and assigned to each of the salespersons.
 #### NOTICE:
-Usernames and Employee Numbers of all actors will be shown at first just for testing purposes.
+[1] Usernames and Employee Numbers of all actors will be shown at first just for testing purposes.
+[2] This app is developed by single-id authentication which is only for prototyping purposes. In the final version of the app, 2-key authentication will be a good solution such as username and password.
 
 ---
 ## [Artifacts of Inception](https://www.anooshe.myweb.cs.uwindsor.ca/artifacts-of-inception/)
