@@ -1,6 +1,18 @@
-# Asset-Lab-Project03
+# [Advaced Software Engineering Topics Lab Project No. 03] 
+### Tap where kitty says ;) -> <a target="_blank" href="https://www.anooshe.myweb.cs.uwindsor.ca/"><img src="https://media.giphy.com/media/7Tie4mXtT5yOhhDCf9/giphy.gif" alt="Project Website" title="Project Website Button" width="100"/></a>
 
-## Artifacts of Inception
+---
+#### Prototype Description:
+As we measured the high risk to be Leads' security, we prototyped the high risk and we demonstrated that a salesperson can only access their own leads. At the same time the manager has read-only access to all leads and their responsible salespersons.
+#### Pre-existing Data
+To properly testing the prototype an instance of the Manager class and 2 instances of the SalesPerson class is created.
+Right after the initialization of the SalesPerson instances, 2 Lead instances get initialized and assigned to each of the salespersons.
+#### NOTICE:
+[1] Usernames and Employee Numbers of all actors will be shown at first just for testing purposes.
+[2] This app is developed by single-id authentication which is only for prototyping purposes. In the final version of the app, 2-key authentication will be a good solution such as username and password.
+
+---
+## [Artifacts of Inception](https://www.anooshe.myweb.cs.uwindsor.ca/artifacts-of-inception/)
 + Vision and business case– High level goals and constraints
 + Use-Case model– Functional requirements (10% in details)
 + Supplementary specification– Key and mostly non-functional requirements with impact on the architecture
@@ -11,7 +23,7 @@
 + Phase Plan and software development plan– Tools, people, education, and other resources
 + Development Case– Customization of UP steps and artifacts for the project 
 
-## FURPS+ Model
+## [FURPS+ Model](https://www.anooshe.myweb.cs.uwindsor.ca/?p=38)
 ### In UP, requirements are categorized according to the FURPS+ model:
 1. Functional – features, capabilities, security.
 2. Usability – human factors, help, documentation

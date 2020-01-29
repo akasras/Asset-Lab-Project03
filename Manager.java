@@ -1,23 +1,23 @@
 /**
  * 
  * @author Aashka Prajapati
- * This class extend Employee class
+ * @author Iman Anooshehpour
+ * 
+ *         This class extend Employee class
  *
  */
-public class Manager extends Employee{
+public class Manager extends Employee {
 
 	/**
 	 * Default Constructor
 	 */
 	public Manager() {
 		/**
-		 * @author Iman Anooshehpour
-		 * 
+		 * Initializing the the accessLevel and position of the manager
 		 */
-		this.employeeNumber = 0;
-		this.accessLevel = 2;		
-		
+		this.setAccessLevel(2);
+		this.setPosition("MANAGER");
+
 	}
-	
-	
+
 }
