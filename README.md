@@ -1,6 +1,16 @@
 # [Advaced Software Engineering Topics Lab Project No. 03] 
 ### Tap where kitty says ;) -> <a href="https://www.anooshe.myweb.cs.uwindsor.ca/"><img src="https://media.giphy.com/media/7Tie4mXtT5yOhhDCf9/giphy.gif" alt="Project Website" title="Project Website Button" width="100"/></a>
 
+---
+#### Prototype Description:
+As we measured the high risk to be Leads' security, we prototyped the high risk and we demonstrated that a salesperson can only access their own leads. At the same time the manager has read-only access to all leads and their responsible salespersons.
+#### Pre-existing Data
+To properly testing the prototype an instance of the Manager class and 2 instances of the SalesPerson class is created.
+Right after the initialization of the SalesPerson instances, 2 Lead instances get initialized and assigned to each of the salespersons.
+#### NOTICE:
+Usernames and Employee Numbers of all actors will be shown at first just for testing purposes.
+
+---
 ## [Artifacts of Inception](https://www.anooshe.myweb.cs.uwindsor.ca/artifacts-of-inception/)
 + Vision and business case– High level goals and constraints
 + Use-Case model– Functional requirements (10% in details)
