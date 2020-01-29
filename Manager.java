@@ -1,6 +1,9 @@
 /**
  * 
- * @author Aashka Prajapati This class extend Employee class
+ * @author Aashka Prajapati
+ * @author Iman Anooshehpour
+ * 
+ *         This class extend Employee class
  *
  */
 public class Manager extends Employee {
@@ -10,12 +13,10 @@ public class Manager extends Employee {
 	 */
 	public Manager() {
 		/**
-		 * @author Iman Anooshehpour
-		 * 
+		 * Initializing the the accessLevel and position of the manager
 		 */
-		this.employeeNumber = 0;
-		this.accessLevel = 2;
-		this.position = "MANAGER";
+		this.setAccessLevel(2);
+		this.setPosition("MANAGER");
 
 	}
 
