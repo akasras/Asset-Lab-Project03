@@ -1,6 +1,4 @@
-# [Advaced Software Engineering Topics Lab Project No. 03]
-[![Project Website](https://i.pinimg.com/originals/ca/1c/1e/ca1c1e4b37c417d4f5e96f27c43f84b7.gif=250X)]
-(https://www.anooshe.myweb.cs.uwindsor.ca/) -> <a href="https://www.anooshe.myweb.cs.uwindsor.ca/"><img src="https://i.pinimg.com/originals/ca/1c/1e/ca1c1e4b37c417d4f5e96f27c43f84b7.gif" alt="Kitten" title="A cute kitten" width="150"/></a>
+# [Advaced Software Engineering Topics Lab Project No. 03] -> <a href="https://www.anooshe.myweb.cs.uwindsor.ca/"><img src="https://i.pinimg.com/originals/ca/1c/1e/ca1c1e4b37c417d4f5e96f27c43f84b7.gif" alt="Kitten" title="A cute kitten" width="150"/></a>
 
 ## [Artifacts of Inception](https://www.anooshe.myweb.cs.uwindsor.ca/artifacts-of-inception/)
 + Vision and business case– High level goals and constraints
