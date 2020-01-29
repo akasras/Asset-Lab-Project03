@@ -23,7 +23,7 @@ Right after the initialization of the SalesPerson instances, 2 Lead instances ge
 + Phase Plan and software development plan– Tools, people, education, and other resources
 + Development Case– Customization of UP steps and artifacts for the project 
 
-## [FURPS+ Model](https://www.anooshe.myweb.cs.uwindsor.ca/?p=38)
+## [FURPS+ Model](https://www.anooshe.myweb.cs.uwindsor.ca/uncategorized/furps/)
 ### In UP, requirements are categorized according to the FURPS+ model:
 1. Functional – features, capabilities, security.
 2. Usability – human factors, help, documentation
