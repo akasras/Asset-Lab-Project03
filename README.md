@@ -1,5 +1,5 @@
 # [Advaced Software Engineering Topics Lab Project No. 03] 
-### Tap where kitty says ;) -> <a href="https://www.anooshe.myweb.cs.uwindsor.ca/"><img src="https://media.giphy.com/media/7Tie4mXtT5yOhhDCf9/giphy.gif" alt="Project Website" title="Project Website Button" width="100"/></a>
+### Tap where kitty says ;) -> <a href="https://www.anooshe.myweb.cs.uwindsor.ca/" target="_blank"><img src="https://media.giphy.com/media/7Tie4mXtT5yOhhDCf9/giphy.gif" alt="Project Website" title="Project Website Button" width="100"/></a>
 
 ---
 #### Prototype Description:
